@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almondlover&label=Profile%20views&color=0e75b6&style=flat" alt="almondlover" /> </p>
 
-- ☕ I’m currently looking for **ideas for my next side project**
+- ☕ I’m currently working on my last few **master's projects**
 - 🤝 I’m looking for help with **updating this readme**
 <p align="left">
 </p>
